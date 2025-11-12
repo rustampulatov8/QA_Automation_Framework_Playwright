@@ -6,17 +6,8 @@
   <img src="https://img.shields.io/badge/NUnit-Test_Framework-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge"/>
 </p>
-![.NET 8](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet)
-![Playwright](https://img.shields.io/badge/Playwright-%2300b300.svg?logo=playwright&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-262B2F.svg?logo=nunit&logoColor=green)
-![Test Framework](https://img.shields.io/badge/Test_Framework-Playwright%2FNUnit-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 [![CI](https://github.com/rustampulatov8/QA_Automation_Framework_Playwright/actions/workflows/dotnet-playwright.yml/badge.svg)](https://github.com/rustampulatov8/QA_Automation_Framework_Playwright/actions)
-
----
-
 ## 🧭 Overview
 This project is an **end-to-end automation framework** built with **Playwright**, **C#**, and **NUnit**, designed to validate both **UI** and **API** workflows for a sample **e-commerce checkout flow**.
 
@@ -127,3 +118,4 @@ This project is released under the MIT License.
 👨‍💻 Author:
 Rustam Pulatov
 💼 Senior QA Automation Engineer | C# | Playwright | NUnit | CI/CD | API Testing
+
