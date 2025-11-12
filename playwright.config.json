@@ -1,0 +1,13 @@
+{
+  "use": {
+    "headless": true,
+    "viewport": { "width": 1920, "height": 1080 },
+    "ignoreHTTPSErrors": true,
+    "screenshot": "only-on-failure",
+    "video": "retain-on-failure",
+    "baseURL": "https://demoblaze.com"
+  },
+  "timeout": 60000,
+  "reporter": [["list"], ["html", { "outputFolder": "Reports" }]]
+}
+
